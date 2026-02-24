@@ -1,0 +1,40 @@
+table{
+font-size:11px;
+border-collapse:collapse;
+}
+.t_one td:empty{
+border:none;
+}
+
+.t_one td.empty{
+border:none;
+}
+.t_one td{
+border:1px solid black;
+}
+
+.t_two td{
+border:1px solid black;
+}
+
+.l_a{
+color:blue;
+}
+.green{
+color:green;
+}
+.red{
+color:red;
+}
+.voilet{
+color:voilet;
+}
+.dv{
+color:#5c2d91;
+}
+
+.cap{
+color:red;
+text-align:center;
+border:2px dashed blue;
+}
